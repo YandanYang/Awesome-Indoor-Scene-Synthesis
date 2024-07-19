@@ -37,11 +37,23 @@ A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-Ne
 - [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Zhou et al., arxiv 2024 | [github](https://github.com/VDIGPKU/GALA3D) | [bibtext](./citations/gala3d.txt)
 - [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) | CVPR 2023 | [github](https://github.com/yinyunie/ScenePriors) | [peoject](https://yinyunie.github.io/sceneprior-page/)
 - ATISS
-- DiffuScene
+- [DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis](https://arxiv.org/abs/2303.14207) | CVPR 2024 | [github](https://github.com/tangjiapeng/DiffuScene) | [project](https://tangjiapeng.github.io/projects/DiffuScene/)
 - Lay-A-Scene
 - [Infinigen-Indoor
 - [InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | ICLR 2024 | [github](https://github.com/chenguolin/InstructScene) | [project](https://chenguolin.github.io/projects/InstructScene/)
 - [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218), arxiv 2023 | [project](https://ryanpo.com/comp3d/) 
+- [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | NIPS 2023 | [github](https://github.com/ymxlzgy/commonscenes) | [project](https://sites.google.com/view/commonscenes)
+- [Language-driven Scene Synthesis using Multi-conditional Diffusion Model](https://arxiv.org/abs/2310.15948) | arXiv 2023 | [github](https://github.com/andvg3/LSDM) | [project](https://lang-scene-synth.github.io/)
+- [3D Scene Diffusion Guidance using Scene Graphs](https://arxiv.org/abs/2308.04468) | arXiv 2023
+- [LEGO-Net: Learning Regular Rearrangements of Objects in Rooms](https://arxiv.org/pdf/2301.09629) | CVPR 2023 | [github](https://github.com/QiuhongAnnaWei/LEGO-Net) | [project](https://ivl.cs.brown.edu/research/lego-net.html)
+- [CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding](https://arxiv.org/abs/2303.03565) | arXiv 2023
+- [SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation](https://arxiv.org/abs/1907.11308) | ICCV 2019
+- [Configurable 3D Scene Synthesis and 2D Image Rendering with Per-Pixel Ground Truth using Stochastic Grammars](https://arxiv.org/abs/1704.00112) | IJCV (2018)
+- [SceneFormer: Indoor Scene Generation with Transformers](https://arxiv.org/abs/2012.09793) | 3DV 2021 | [github](https://github.com/cy94/sceneformer) | [project](https://xinpeng-wang.github.io/sceneformer/)
+- [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) | CVPR 2023 | [github](https://github.com/yinyunie/ScenePriors) | [project](https://yinyunie.github.io/sceneprior-page/)
+- .....
+
+
 
 - [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), Fang et al., arxiv 2023 | [github](https://github.com/fangchuan/Ctrl-Room) | [bibtext](./citations/ctrlroom.txt) 
  
@@ -63,17 +75,17 @@ A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-Ne
 
 
 <details open>
-<summary>Object</summary>
+<summary>Scene Texture</summary>
+- [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
 
-- [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/abs/1803.08495), Chen et al., ACCV  2018 |  [github](https://github.com/kchen92/text2shape) | [bibtex](./citations/text2shape.txt)
 
 </details>
 
 
 <details open>
-<summary>Scene</summary>
-
-
+<summary>2D Layout / General layout</summary>
+- [LayoutTransformer: Layout Generation and Completion with Self-attention](https://arxiv.org/abs/2006.14615) | ICCV2021 | [github](https://github.com/kampta/DeepLayout) | [project](https://kampta.github.io/layout/)
+-...
 - [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://arxiv.org/abs/2007.02442), Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf) | [bibtext](./citations/graf.txt)
 - [ATISS: Autoregressive Transformers for Indoor Scene Synthesis](https://arxiv.org/abs/2110.03675), Paschalidou et al., NeurIPS 2021 | [github](https://github.com/nv-tlabs/atiss) | [bibtext](./citations/atiss.txt) 
 - [GAUDI: A Neural Architect for Immersive 3D Scene Generation](https://arxiv.org/abs/2207.13751), Bautista et al., NeurIPS 2022 | [github](https://github.com/apple/ml-gaudi) | [bibtext](./citations/gaudi.txt)
@@ -86,9 +98,10 @@ A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-Ne
 </details>
 
 <details open>
-<summary>Human Avatar</summary>
+<summary>Dataset</summary>
 
-- [SMPL: A skinned multi-person linear model](https://dl.acm.org/doi/10.1145/2816795.2818013), Loper et al., TOG 2015 | [bibtex](./citations/smpl.txt)
+- [Habitat Synthetic Scenes Dataset (HSSD):An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation](https://arxiv.org/abs/2306.11290) | CVPR 2024 | [github](https://github.com/3dlg-hcvc/hssd/) | [project](https://3dlg-hcvc.github.io/hssd/)
+- [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | ICCV 2021 | [project](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset)
 
 </details>
 
@@ -156,29 +169,13 @@ A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-Ne
 
 
 <details open>
-<summary>Human Avatar</summary>
-
-- [SofGAN: A Portrait Image Generator with Dynamic Styling](https://arxiv.org/abs/2007.03780), Chen et al., TOG 2022 | [github](https://github.com/apchenstu/sofgan) | [bibtext](./citations/sofgan.txt) 
-
-
+<summary>conditioned on Human Montion</summary>
+- [Scene Synthesis from Human Motion](https://arxiv.org/abs/2301.01424) | SIGGRAPH Asia 2022 | [github](https://github.com/onestarYX/summon) | [project](https://lijiaman.github.io/projects/summon/)
+- [Pose2Room: Understanding 3D Scenes from Human Activities](https://arxiv.org/abs/2112.03030) | ECCV 2022 | [github](https://arxiv.org/abs/2112.03030) | [project](https://yinyunie.github.io/pose2room-page/)
+- [Human-centric Indoor Scene Synthesis Using Stochastic Grammar](https://arxiv.org/abs/1808.08473v1) | CVPR 2018
+- [Rearrange Indoor Scenes for Human-Robot Co-Activity](https://arxiv.org/abs/2303.05676) | ICRA 2023 | [github](https://github.com/Rayckey/scene_coactivity) | [project](https://sites.google.com/view/coactivity)
 </details>
 
-<details open>
-<summary>Dynamic</summary>
-
-- [MAV3d: Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Singer et al., arxiv 2023 | [bibtext](./citations/mav3d.txt) 
-
-</details>
-
-</details>
-
-<details close>
-<summary>Others</summary>
-
-<details open>
-<summary>Physical</summary>
-
-- [Physical Property Understanding from Language-Embedded Feature Fields](https://arxiv.org/abs/2404.04242), Zhai et al., CVPR 2024 | [github](https://github.com/ajzhai/NeRF2Physics) | [bibtext](./citations/nerf2physics.txt) 
 
 </details>
 

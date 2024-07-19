@@ -22,8 +22,6 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 
 ## Survey
 
-- [3D Generative Models: A Survey](https://arxiv.org/abs/2210.15663), Shi et al., arxiv 2022 | [bibtex](./citations/3d-generative-survey.txt)
-
 ## Papers
 
 <details open>
@@ -54,6 +52,8 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 - [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) | CVPR 2023 | [github](https://github.com/yinyunie/ScenePriors) | [project](https://yinyunie.github.io/sceneprior-page/)
 - [Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models](https://arxiv.org/abs/1811.12463) | CVPR 2019
 - [Scene Synthesis via Uncertainty-Driven Attribute Synchronization](https://arxiv.org/abs/2108.13499) | ICCV 2021 | [github](https://github.com/brownvc/fast-synth)
+- [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://procthor.allenai.org/), Deitke et al., NeurIPS 2022 |  [github](https://github.com/allenai/procthor) | [bibtex](./citations/procthor.txt)
+
 - .....
 
 
@@ -81,7 +81,6 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 <summary>Scene Texture</summary>
 - [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
 
-
 </details>
 
 
@@ -100,30 +99,10 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 
 </details>
 
-<details open>
-<summary>Dataset</summary>
-
-</details>
-
-</details>
-
-<details close>
-<summary>2D Prior-based 3D Generative Methods</summary>
-
-<details open>
-<summary>Object</summary>
-
-- [DreamFields: Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Jain et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/dreamfields) | [bibtex](./citations/dreamfields.txt)
-
-</details>
-
 
 <details open>
 <summary>Scene</summary>
 
-- [Text2Light: Zero-Shot Text-Driven HDR Panorama Generation](https://arxiv.org/abs/2209.09898), Chen et al., TOG 2022 | [github](https://github.com/FrozenBurning/Text2Light) | [bibtext](./citations/text2light.txt) 
-- [SceneScape: Text-Driven Consistent Scene Generation](https://arxiv.org/abs/2302.01133), Fridman et al., NeurIPS 2023 | [github](https://github.com/RafailFridman/SceneScape) | [bibtext](./citations/scenescape.txt) 
-- [DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis](https://arxiv.org/abs/2303.14207), Tang et al., arxiv 2023 | [github](https://github.com/tangjiapeng/DiffuScene) | [bibtext](./citations/diffuscene.txt) 
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989), Höllein et al., ICCV 2023 | [github](https://github.com/lukasHoel/text2room) | [bibtext](./citations/text2room.txt) 
 - [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://arxiv.org/abs/2305.11588), Zhang et al., TVCG 2024 | [github](https://github.com/eckertzhang/Text2NeRF) | [bibtext](./citations/text2nerf.txt) 
 - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610), Xie et al., arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtext](./citations/cityDreamer.txt)
@@ -138,34 +117,6 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 
 </details>
 
-<details open>
-<summary>Human Avatar</summary>
-
-- [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://arxiv.org/abs/2205.08535), Hong et al., SIGGRAPH 2022 |  [github](https://github.com/hongfz16/AvatarCLIP) | [bibtex](./citations/teca.txt)
-- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/abs/2305.12529), Huang et al., NeurIPS 2023 |  [github](https://github.com/IDEA-Research/DreamWaltz) | [bibtex](./citations/dreamwaltz.txt)
-- [DreamHuman: Animatable 3D Avatars from Text](https://arxiv.org/abs/2306.09329), Wang et al., arxiv 2023 | [bibtex](./citations/dreamhuman.txt)
-- [TECA: Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Zhang et al., arxiv 2023 |  [github](https://github.com/HaoZhang990127/TECA) | [bibtex](./citations/teca.txt)
-- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Liu et al., arxiv 2023 |  [github](https://github.com/alvinliu0/HumanGaussian) | [bibtex](./citations/humangaussian.txt)
-- [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation](https://arxiv.org/abs/2312.07539), Liu et al., arxiv 2023 | [bibtex](./citations/headArtist.txt)
-- [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2312.09228), Qian et al., arxiv 2023 |  [github](https://github.com/mikeqzy/3dgs-avatar-release) | [bibtex](./citations/3dgsAvatar.txt)
-
-
-</details>
-
-
-</details>
-
-
-<details close>
-<summary>Hybrid 3D Generative Methods</summary>
-
-<details open>
-<summary>Object</summary>
-
-- [SketchDream: Sketch-based Text-to-3D Generation and Editing](https://arxiv.org/abs/2405.06461), Liu et al., SIGGRAPH 2024 | [bibtex](./citations/sketchdream.txt)
-
-
-</details>
 
 
 <details open>
@@ -178,9 +129,6 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 </details>
 
 
-
-</details>
-
 <details open>
 <summary>Condition on 2D Image</summary>
 
@@ -189,22 +137,12 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 </details>
 
 <details open>
-<summary>Procedural 3D Modeling</summary>
-
-- [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://procthor.allenai.org/), Deitke et al., NeurIPS 2022 |  [github](https://github.com/allenai/procthor) | [bibtex](./citations/procthor.txt)
-- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Sun et al., arxiv 2023 |  [github](https://github.com/Chuny1/3DGPT) | [bibtex](./citations/3dgpt.txt)
-
+<summary>with Procedural </summary>
+- [procthor]
+- [infinigen]
 </details>
 
 
-<details open>
-<summary>3D Representation</summary>
-
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./citations/nerf.txt)
-
-</details>
-
-</details>
 
 
 ## Benchmarks and Datasets
@@ -216,18 +154,8 @@ Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTI
 - Object
 - [Objaverse-XL](https://objaverse.allenai.org/) | NeurIPS 2023 | [github](https://github.com/allenai/objaverse-xl)
 
-## Talks
-- [AI 3D Generation, explained](https://www.youtube.com/watch?v=EoAm1yZR-ao), Jia-Bin Huang
 
 
-## Company
-- [TRIPOAI](https://www.tripo3d.ai/)
-
-
-
-## Implementations
-
-- [Threestudio](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo, 2023 | [bibtex](./citations/threestudio.txt)
 
 ## License 
 Awesome-Indoor-Scene-Synthesis is released under the [MIT license](./LICENSE).

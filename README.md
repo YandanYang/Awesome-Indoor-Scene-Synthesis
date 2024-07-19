@@ -2,7 +2,7 @@
 A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 
-<img src="./asset/mvdream.gif" width="696px">
+<--img src="./asset/mvdream.gif" width="696px"-->
  
 
 
@@ -51,6 +51,8 @@ A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-Ne
 - [Configurable 3D Scene Synthesis and 2D Image Rendering with Per-Pixel Ground Truth using Stochastic Grammars](https://arxiv.org/abs/1704.00112) | IJCV (2018)
 - [SceneFormer: Indoor Scene Generation with Transformers](https://arxiv.org/abs/2012.09793) | 3DV 2021 | [github](https://github.com/cy94/sceneformer) | [project](https://xinpeng-wang.github.io/sceneformer/)
 - [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) | CVPR 2023 | [github](https://github.com/yinyunie/ScenePriors) | [project](https://yinyunie.github.io/sceneprior-page/)
+- [Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models](https://arxiv.org/abs/1811.12463) | CVPR 2019
+- [Scene Synthesis via Uncertainty-Driven Attribute Synchronization](https://arxiv.org/abs/2108.13499) | ICCV 2021 | [github](https://github.com/brownvc/fast-synth)
 - .....
 
 
@@ -177,13 +179,14 @@ A curated list of awesome Indoor Scene Synthesis papers, inspired by [awesome-Ne
 </details>
 
 
+
 </details>
 
 <details open>
-<summary>Texture</summary>
+<summary>Condition on 2D Image</summary>
 
-- [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions](https://arxiv.org/abs/2112.01530), Höllein et al., CVPR 2022 | [github](https://github.com/lukasHoel/stylemesh) | [bibtex](./citations/stylemesh.txt)
-
+- [Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image](https://arxiv.org/abs/2002.12212) | CVPR 2020 | [github](https://github.com/GAP-LAB-CUHK-SZ/Total3DUnderstanding) | [project](https://yinyunie.github.io/Total3D/)
+- [Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/pdf/2103.06422) | CVPR 2021 | [github](https://github.com/chengzhag/Implicit3DUnderstanding) |[project](https://chengzhag.github.io/publication/im3d/)
 </details>
 
 <details open>

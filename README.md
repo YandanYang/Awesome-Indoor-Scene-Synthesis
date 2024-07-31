@@ -36,7 +36,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 
 <details open>
 <summary>Model Training without Scene Graph</summary>
-
+- [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion?utm_source=catalyzex.com)
 - [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://arxiv.org/abs/2404.09465) | CVPR 2024 | [github](https://github.com/PhyScene/PhyScene/tree/main) |[project](https://physcene.github.io/)
 - [ATISS: Autoregressive Transformers for Indoor Scene Synthesis](https://arxiv.org/pdf/2110.03675) | NIPS 2021 | [github](https://github.com/nv-tlabs/ATISS) | [project](https://research.nvidia.com/labs/toronto-ai/ATISS/)
 - [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) | CVPR 2023 | [github](https://github.com/yinyunie/ScenePriors) | [peoject](https://yinyunie.github.io/sceneprior-page/)

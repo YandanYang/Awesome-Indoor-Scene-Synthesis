@@ -34,8 +34,11 @@ A curated list of awesome Indoor Scene Synthesis papers.
 - [SceneTeller: Language-to-3D Scene Generation](https://arxiv.org/pdf/2407.20727) | arxiv 2024 | [project](https://sceneteller.github.io/)
 </details>
 
+
+
 <details open>
 <summary>Model Training without Scene Graph</summary>
+ 
 - [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion?utm_source=catalyzex.com)
 - [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://arxiv.org/abs/2404.09465) | CVPR 2024 | [github](https://github.com/PhyScene/PhyScene/tree/main) |[project](https://physcene.github.io/)
 - [ATISS: Autoregressive Transformers for Indoor Scene Synthesis](https://arxiv.org/pdf/2110.03675) | NIPS 2021 | [github](https://github.com/nv-tlabs/ATISS) | [project](https://research.nvidia.com/labs/toronto-ai/ATISS/)
@@ -50,6 +53,8 @@ A curated list of awesome Indoor Scene Synthesis papers.
 - [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
 - [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2405.21066) | [github](https://github.com/MIT-SPARK/MiDiffusion)
 </details>
+
+
 
 <details open>
 <summary>Model Training with Scene Graph</summary>
@@ -119,16 +124,23 @@ A curated list of awesome Indoor Scene Synthesis papers.
 
 
 ## Datasets
-- Scene
+
+<details open>
+<summary>Scene</summary>
+
 - [Habitat Synthetic Scenes Dataset (HSSD):An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation](https://arxiv.org/abs/2306.11290) | CVPR 2024 | [github](https://github.com/3dlg-hcvc/hssd/) | [project](https://3dlg-hcvc.github.io/hssd/)
 - [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://arxiv.org/abs/2011.09127) | ICCV 2021 | [project](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset)
 - [ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes](https://arxiv.org/abs/1702.04405) | CVPR 2017 | [github](https://github.com/ScanNet/ScanNet) | [project](https://www.scan-net.org/)
 - [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://procthor.allenai.org/), Deitke et al., NeurIPS 2022 |  [github](https://github.com/allenai/procthor) | [bibtex](./citations/procthor.txt)
+</details>
 
-- Object
+<details open>
+<summary>Object</summary>
+
 - [Objaverse-XL](https://objaverse.allenai.org/) | NeurIPS 2023 | [github](https://github.com/allenai/objaverse-xl)
+</details>
 
-#### How to submit a pull request?
+## How to submit a pull request?
 Modify the README.md and follow the format TITLE, AUTHOR, CONFERENCE YEAR | OPTIONAL LINK | BIBTEX. For example:
 
 - [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://arxiv.org/abs/2404.09465) | CVPR 2024 | [github](https://github.com/PhyScene/PhyScene/tree/main) |[project](https://physcene.github.io/)

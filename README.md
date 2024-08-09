@@ -1,7 +1,7 @@
 # Awesome-Indoor-Scene-Synthesis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome Indoor Scene Synthesis papers.
 <div style="text-align: center">
-<img src="asset/scene.png"  />
+<img src="asset/scene.png" width="600px" height="300px" />
 </div>
 
 ## Table of Contents

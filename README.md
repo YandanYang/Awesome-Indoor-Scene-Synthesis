@@ -116,7 +116,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 </details>
 
 ### Scene Texture
-
+- [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
 - [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
 
 

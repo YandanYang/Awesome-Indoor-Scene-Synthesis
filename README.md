@@ -119,9 +119,11 @@ A curated list of awesome Indoor Scene Synthesis papers.
 </details>
 
 ### Scene Texture
+
+- [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251) | ECCV 2024 Oral | [github](https://github.com/Roblox/FlashTex) | [project](https://flashtex.github.io/)
+- [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](https://arxiv.org/abs/2404.17672) | ECCV 2024| [github](https://github.com/ianhuang0630/BlenderAlchemyOfficial) | [project](https://ianhuang0630.github.io/BlenderAlchemyWeb/)
 - [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
 - [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
-
 
 ### 2D Layout / General layout
 

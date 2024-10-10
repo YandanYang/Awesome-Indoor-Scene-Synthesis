@@ -132,6 +132,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <summary> Material generation</summary>
 
 - [MatFuse: Controllable Material Generation with Diffusion Models](https://arxiv.org/pdf/2308.11408) CVPR 2024 | [project](https://gvecchio.com/matfuse/)  [![Code](https://img.shields.io/github/stars/giuvecchio/matfuse-sd.svg?style=social&label=Official)](https://github.com/giuvecchio/matfuse-sd)
+- [ControlMat: A Controlled Generative Approach to Material Capture](https://arxiv.org/pdf/2309.01700) ACM ToG (invited to SIGGRAPH Asia 2024) | [project](https://gvecchio.com/controlmat/)
 </details>
 
 

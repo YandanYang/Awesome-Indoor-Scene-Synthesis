@@ -119,16 +119,25 @@ A curated list of awesome Indoor Scene Synthesis papers.
 </details>
 
 ### Scene Texture
+<details open>
+<summary> Object texture generation</summary>
 
 - [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251) | ECCV 2024 Oral | [github](https://github.com/Roblox/FlashTex) | [project](https://flashtex.github.io/)
 - [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](https://arxiv.org/abs/2404.17672) | ECCV 2024| [github](https://github.com/ianhuang0630/BlenderAlchemyOfficial) | [project](https://ianhuang0630.github.io/BlenderAlchemyWeb/)
 - [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
 - [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
+</details>
+
+<details open>
+<summary> Material generation</summary>
+
+- [MatFuse: Controllable Material Generation with Diffusion Models](https://arxiv.org/pdf/2308.11408) CVPR 2024 | [project](https://gvecchio.com/matfuse/)  [![Code](https://img.shields.io/github/stars/giuvecchio/matfuse-sd.svg?style=social&label=Official)](https://github.com/giuvecchio/matfuse-sd)
+</details>
+
 
 ### 2D Layout / General layout
 
 - [LayoutTransformer: Layout Generation and Completion with Self-attention](https://arxiv.org/abs/2006.14615) | ICCV2021 | [github](https://github.com/kampta/DeepLayout) | [project](https://kampta.github.io/layout/)
-</details>
 
 
 ## Datasets

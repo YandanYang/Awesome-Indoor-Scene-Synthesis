@@ -118,14 +118,20 @@ A curated list of awesome Indoor Scene Synthesis papers.
 - [Configurable 3D Scene Synthesis and 2D Image Rendering with Per-Pixel Ground Truth using Stochastic Grammars](https://arxiv.org/abs/1704.00112) | IJCV (2018)
 </details>
 
-### Scene Texture
+### Texture Synthesis
+<details open>
+<summary> Scene texture generation</summary>
+
+- [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
+- [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
+- [Paint3D: Paint Anything 3D with Lighting-less Texture Diffusion Models](https://arxiv.org/pdf/2312.13913) | CVPR 2024 | [project](https://paint3d.github.io/)   [![Code](https://img.shields.io/github/stars/OpenTexture/Paint3D.svg?style=social&label=Official)](https://github.com/OpenTexture/Paint3D)
+</details>
+
 <details open>
 <summary> Object texture generation</summary>
 
 - [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251) | ECCV 2024 Oral | [github](https://github.com/Roblox/FlashTex) | [project](https://flashtex.github.io/)
 - [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](https://arxiv.org/abs/2404.17672) | ECCV 2024| [github](https://github.com/ianhuang0630/BlenderAlchemyOfficial) | [project](https://ianhuang0630.github.io/BlenderAlchemyWeb/)
-- [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
-- [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
 </details>
 
 <details open>

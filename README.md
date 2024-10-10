@@ -38,6 +38,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 - [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | arxiv 2023| [github](https://github.com/allenai/Holodeck) | [project](https://yueyang1996.github.io/holodeck/)
 - [AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes](https://arxiv.org/abs/2312.06644) | arXiv 2023 | [github](https://github.com/FreddieRao/anyhome_github) | [project](https://freddierao.github.io/AnyHome/)
 - [LayoutGPT: Compositional Visual Planning and Generation with Large Language Models](https://arxiv.org/abs/2305.15393), arxiv 2023| [github](https://github.com/weixi-feng/LayoutGPT) | [project](https://layoutgpt.github.io/)
+- [3D-GPT: PROCEDURAL 3D MODELING WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.12945) | [project](https://chuny1.github.io/3DGPT/3dgpt.html)
 
 </details>
 

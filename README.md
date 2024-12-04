@@ -28,7 +28,9 @@ A curated list of awesome Indoor Scene Synthesis papers.
 
 <details open>
 <summary>applying LLM</summary>
-
+ 
+- [Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/pdf/2403.09675) | arxiv 2024 
+- [LAYOUTVLM: Differentiable Optimization of 3D Layoutvia Vision-Language Models](https://arxiv.org/pdf/2412.02193) | arxiv 2024  | [github](https://github.com/sunfanyunn/LayoutVLM) | [project](https://ai.stanford.edu/~sunfanyun/layoutvlm/)
 - [Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM](https://arxiv.org/pdf/2407.21333) | arxiv 2024
 - [LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model](https://arxiv.org/abs/2406.03866) | arxiv 2024 
 - [SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code](https://arxiv.org/abs/2403.01248) | ICML 2024

@@ -14,7 +14,13 @@ A curated list of awesome Indoor Scene Synthesis papers.
 ## Papers
 
 ### 3D Scene synthesis
+<details open>
+<summary>Single Mesh Generation</summary>
 
+- [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | arxiv 2024 |[github](https://github.com/alexeybokhovkin/SceneFactor)  | [project](https://alexeybokhovkin.github.io/scenefactor/)
+
+</details>
+ 
 <details open>
 <summary>Compositional Mesh Generation</summary>
  

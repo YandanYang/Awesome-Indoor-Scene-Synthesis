@@ -54,7 +54,8 @@ A curated list of awesome Indoor Scene Synthesis papers.
 
 <details open>
 <summary>Model Training without Scene Graph</summary>
- 
+
+- [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion?tab=readme-ov-file) 
 - [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
 - [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion)
 - [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion?utm_source=catalyzex.com)

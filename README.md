@@ -36,6 +36,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+ - [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
 - [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) | [github](https://ai.stanford.edu/~yzzhang/projects/scene-language/)  | [project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)
 - [Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/pdf/2403.09675) | arxiv 2024 
 - [LAYOUTVLM: Differentiable Optimization of 3D Layoutvia Vision-Language Models](https://arxiv.org/pdf/2412.02193) | arxiv 2024  | [github](https://github.com/sunfanyunn/LayoutVLM) | [project](https://ai.stanford.edu/~sunfanyun/layoutvlm/)
@@ -78,6 +79,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>Model Training with Scene Graph</summary>
 
+- [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
 - [EcoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://arxiv.org/abs/2405.00915) | ECCV 2025 | [github](https://github.com/ymxlzgy/echoscene) | [project](https://sites.google.com/view/echoscene)
 - [InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior](https://arxiv.org/abs/2402.04717) | ICLR 2024 | [github](https://github.com/chenguolin/InstructScene) | [project](https://chenguolin.github.io/projects/InstructScene/)
 - [CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion](https://arxiv.org/abs/2305.16283) | NIPS 2023 | [github](https://github.com/ymxlzgy/commonscenes) | [project](https://sites.google.com/view/commonscenes)

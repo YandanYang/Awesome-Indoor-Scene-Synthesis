@@ -41,7 +41,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
  - [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
 - [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) | [github](https://ai.stanford.edu/~yzzhang/projects/scene-language/)  | [project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)
 - [Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/pdf/2403.09675) | arxiv 2024 
-- [LAYOUTVLM: Differentiable Optimization of 3D Layoutvia Vision-Language Models](https://arxiv.org/pdf/2412.02193) | arxiv 2024  | [github](https://github.com/sunfanyunn/LayoutVLM) | [project](https://ai.stanford.edu/~sunfanyun/layoutvlm/)
+- [LAYOUTVLM: Differentiable Optimization of 3D Layoutvia Vision-Language Models](https://arxiv.org/pdf/2412.02193) | CVPR 2025  | [github](https://github.com/sunfanyunn/LayoutVLM) | [project](https://ai.stanford.edu/~sunfanyun/layoutvlm/)
 - [Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM](https://arxiv.org/pdf/2407.21333) | arxiv 2024
 - [LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model](https://arxiv.org/abs/2406.03866) | arxiv 2024 
 - [SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code](https://arxiv.org/abs/2403.01248) | ICML 2024

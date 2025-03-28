@@ -36,9 +36,10 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement](https://arxiv.org/pdf/2503.04919) | arxiv 2025
+- [HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation](https://arxiv.org/pdf/2503.16848) | 3DV 2025 | [project](https://3dlg-hcvc.github.io/hsm/)
 - [WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents](https://arxiv.org/pdf/2502.15601) | arxiv 2025
-
- - [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
+- [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
 - [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) | [github](https://ai.stanford.edu/~yzzhang/projects/scene-language/)  | [project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)
 - [Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases](https://arxiv.org/pdf/2403.09675) | arxiv 2024 
 - [LAYOUTVLM: Differentiable Optimization of 3D Layoutvia Vision-Language Models](https://arxiv.org/pdf/2412.02193) | CVPR 2025  | [github](https://github.com/sunfanyunn/LayoutVLM) | [project](https://ai.stanford.edu/~sunfanyun/layoutvlm/)

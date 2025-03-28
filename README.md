@@ -137,6 +137,14 @@ A curated list of awesome Indoor Scene Synthesis papers.
 - [Configurable 3D Scene Synthesis and 2D Image Rendering with Per-Pixel Ground Truth using Stochastic Grammars](https://arxiv.org/abs/1704.00112) | IJCV (2018)
 </details>
 
+### Asset Synthesis
+<details open>
+<summary> Asset generation</summary>
+ 
+- [Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects viaProcedural Generation](https://arxiv.org/pdf/2503.13424) | Arxiv 2025 | [github](https://github.com/OpenRobotLab/Infinite-Mobility)
+
+</details>
+
 ### Texture Synthesis
 <details open>
 <summary> Scene texture generation</summary>

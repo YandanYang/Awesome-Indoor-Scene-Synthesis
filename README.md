@@ -96,6 +96,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <summary>Using 2D Prior</summary>
  
 - [Lay-A-Scene: Personalized 3D Object Arrangement Using Text-to-Image Priors](https://arxiv.org/abs/2406.00687) | arxiv 2024 | [project](https://lay-a-scene.github.io/)
+- [ARCHITECT: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting](https://arxiv.org/pdf/2411.09823) | NIPS 2024 | [github](https://github.com/wangyian-me/architect_official_code/tree/main) | [project](https://wangyian-me.github.io/Architect/)
  </details>
 
 <details open>

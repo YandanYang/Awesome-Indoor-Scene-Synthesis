@@ -36,6 +36,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds] | [project](https://ai.stanford.edu/~sunfanyun/3d-generalist/)
 - [FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement](https://arxiv.org/pdf/2503.04919) | arxiv 2025
 - [HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation](https://arxiv.org/pdf/2503.16848) | 3DV 2025 | [project](https://3dlg-hcvc.github.io/hsm/)
 - [WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents](https://arxiv.org/pdf/2502.15601) | arxiv 2025

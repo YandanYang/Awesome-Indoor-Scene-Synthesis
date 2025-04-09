@@ -17,7 +17,8 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>Single Mesh Generation</summary>
 
-- [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | arxiv 2024 |[github](https://github.com/alexeybokhovkin/SceneFactor)  | [project](https://alexeybokhovkin.github.io/scenefactor/)
+- [LT3SD: Latent Trees for 3D Scene Diffusion](https://arxiv.org/abs/2409.08215) | CVPR 2025 | [github](https://github.com/quan-meng/lt3sd)  | [project](https://quan-meng.github.io/projects/lt3sd/)
+- [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) |  CVPR 2025 | [github](https://github.com/alexeybokhovkin/SceneFactor)  | [project](https://alexeybokhovkin.github.io/scenefactor/)
 
 </details>
  
@@ -36,6 +37,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [Global-Local Tree Search for Language Guided 3D Scene Generation](https://arxiv.org/abs/2503.18476) | CVPR 2025 | [code](https://github.com/dw-dengwei/TreeSearchGen)
 - [3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds] | [project](https://ai.stanford.edu/~sunfanyun/3d-generalist/)
 - [FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement](https://arxiv.org/pdf/2503.04919) | arxiv 2025
 - [HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation](https://arxiv.org/pdf/2503.16848) | 3DV 2025 | [project](https://3dlg-hcvc.github.io/hsm/)
@@ -63,10 +65,8 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <summary>Model Training without Scene Graph</summary>
 
 - [Learning Object Placement Programs for Indoor Scene Synthesis with Iterative Self Training](https://www.arxiv.org/abs/2503.04496) | arxiv 2025
-- [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion?tab=readme-ov-file) 
 - [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
 - [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion)
-- [Mixed Diffusion for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2405.21066) | arxiv 2024 | [github](https://github.com/MIT-SPARK/MiDiffusion?utm_source=catalyzex.com)
 - [PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI](https://arxiv.org/abs/2404.09465) | CVPR 2024 | [github](https://github.com/PhyScene/PhyScene/tree/main) |[project](https://physcene.github.io/)
 - [ATISS: Autoregressive Transformers for Indoor Scene Synthesis](https://arxiv.org/pdf/2110.03675) | NIPS 2021 | [github](https://github.com/nv-tlabs/ATISS) | [project](https://research.nvidia.com/labs/toronto-ai/ATISS/)
 - [DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis](https://arxiv.org/abs/2303.14207) | arXiv 2024 | CVPR 2024 | [github](https://github.com/tangjiapeng/DiffuScene) | [project](https://tangjiapeng.github.io/projects/DiffuScene/)
@@ -84,6 +84,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>Model Training with Scene Graph</summary>
 
+- [Hierarchically-structured open-vocabulary indoor scene synthesis with pre-trained large language model](http://arxiv.org/abs/2502.10675) | arxiv 2025
 - [Learning Object Placement Programs for Indoor Scene Synthesis with Iterative Self Training](https://arxiv.org/pdf/2503.04496) | arxiv 2025
 - [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
 - [EcoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://arxiv.org/abs/2405.00915) | ECCV 2025 | [github](https://github.com/ymxlzgy/echoscene) | [project](https://sites.google.com/view/echoscene)
@@ -152,6 +153,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary> Scene texture generation</summary>
 
+- [RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing](https://arxiv.org/abs/2412.16778) | arxiv 2024
 - [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
 - [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
 - [Paint3D: Paint Anything 3D with Lighting-less Texture Diffusion Models](https://arxiv.org/pdf/2312.13913) | CVPR 2024 | [project](https://paint3d.github.io/)   [![Code](https://img.shields.io/github/stars/OpenTexture/Paint3D.svg?style=social&label=Official)](https://github.com/OpenTexture/Paint3D)

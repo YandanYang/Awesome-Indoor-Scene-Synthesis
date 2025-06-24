@@ -15,6 +15,13 @@ A curated list of awesome Indoor Scene Synthesis papers.
 
 ### 3D Scene synthesis
 <details open>
+<summary>Scene for Embodied AI</summary>
+
+- [DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.pdf) | CVPR 2025 
+
+</details>
+
+<details open>
 <summary>Single Mesh Generation</summary>
 
 - [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | arxiv 2024 |[github](https://github.com/alexeybokhovkin/SceneFactor)  | [project](https://alexeybokhovkin.github.io/scenefactor/)

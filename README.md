@@ -43,6 +43,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_FreeScene_Mixed_Graph_Diffusion_for_3D_Scene_Synthesis_from_Free_CVPR_2025_paper.pdf) | CVPR 2025
 - [ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary](https://openaccess.thecvf.com//content/CVPR2025/papers/Gu_ArtiScene_Language-Driven_Artistic_3D_Scene_Generation_Through_Image_Intermediary_CVPR_2025_paper.pdf) | CVPR 2025 | [project](https://artiscene-cvpr.github.io/)
 - [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/pdf/2505.02836) | arxiv 2025 | [project](https://research.nvidia.com/labs/dir/scenethesis/)
 - [3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds] | [project](https://ai.stanford.edu/~sunfanyun/3d-generalist/)
@@ -91,6 +92,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>Model Training with Scene Graph</summary>
 
+- [FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_FreeScene_Mixed_Graph_Diffusion_for_3D_Scene_Synthesis_from_Free_CVPR_2025_paper.pdf) | CVPR 2025
 - [Learning Object Placement Programs for Indoor Scene Synthesis with Iterative Self Training](https://arxiv.org/pdf/2503.04496) | arxiv 2025
 - [MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation](https://arxiv.org/pdf/2502.05874) | AAAI 2025 | [code](https://github.com/yangzhifeio/MMGDreamer) | [project](https://yangzhifeio.github.io/project/MMGDreamer/) 
 - [EcoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://arxiv.org/abs/2405.00915) | ECCV 2025 | [github](https://github.com/ymxlzgy/echoscene) | [project](https://sites.google.com/view/echoscene)

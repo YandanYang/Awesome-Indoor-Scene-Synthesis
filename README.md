@@ -43,6 +43,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [Global-Local Tree Search in VLMs for 3D Indoor Scene Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_Global-Local_Tree_Search_in_VLMs_for_3D_Indoor_Scene_Generation_CVPR_2025_paper.pdf) | CVPR 2025
 - [FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_FreeScene_Mixed_Graph_Diffusion_for_3D_Scene_Synthesis_from_Free_CVPR_2025_paper.pdf) | CVPR 2025
 - [ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary](https://openaccess.thecvf.com//content/CVPR2025/papers/Gu_ArtiScene_Language-Driven_Artistic_3D_Scene_Generation_Through_Image_Intermediary_CVPR_2025_paper.pdf) | CVPR 2025 | [project](https://artiscene-cvpr.github.io/)
 - [Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation](https://arxiv.org/pdf/2505.02836) | arxiv 2025 | [project](https://research.nvidia.com/labs/dir/scenethesis/)

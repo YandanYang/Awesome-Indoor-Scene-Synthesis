@@ -159,6 +159,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary> Scene texture generation</summary>
 
+- [RoomPainter: View-Integrated Diffusion for Consistent Indoor Scene Texturing](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_RoomPainter_View-Integrated_Diffusion_for_Consistent_Indoor_Scene_Texturing_CVPR_2025_paper.pdf) | CVPR 2025
 - [RoomTex: Texturing Compositional Indoor Scenes via Iterative Inpainting](https://web3.arxiv.org/pdf/2406.02461) | arXiv 2024 | [github](https://qwang666.github.io/RoomTex/) | [project](https://qwang666.github.io/RoomTex/)
 - [Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details](https://arxiv.org/abs/2308.16880) | CVPR 2023
 - [Paint3D: Paint Anything 3D with Lighting-less Texture Diffusion Models](https://arxiv.org/pdf/2312.13913) | CVPR 2024 | [project](https://paint3d.github.io/)   [![Code](https://img.shields.io/github/stars/OpenTexture/Paint3D.svg?style=social&label=Official)](https://github.com/OpenTexture/Paint3D)

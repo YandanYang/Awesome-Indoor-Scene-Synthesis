@@ -43,6 +43,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>applying LLM</summary>
 
+- [SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2503.14756) | Arxiv 2025 | [github](https://github.com/3dlg-hcvc/SceneEval) | [project](https://3dlg-hcvc.github.io/SceneEval/)
 - [ReSpace: Text-Driven 3D Scene Synthesis and Editing with Preference Alignmen](https://arxiv.org/pdf/2506.02459) | arxiv 2025
 - [RoomCraft: Controllable and Complete 3D Indoor Scene Generation](https://arxiv.org/pdf/2506.22291) | arxiv 2025
 - [ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary](https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_ArtiScene_Language-Driven_Artistic_3D_Scene_Generation_Through_Image_Intermediary_CVPR_2025_paper.pdf) | CVPR 2025 
@@ -190,7 +191,10 @@ A curated list of awesome Indoor Scene Synthesis papers.
 
 - [LayoutTransformer: Layout Generation and Completion with Self-attention](https://arxiv.org/abs/2006.14615) | ICCV2021 | [github](https://github.com/kampta/DeepLayout) | [project](https://kampta.github.io/layout/)
 
+### Evaluation Metrics
 
+- [SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2503.14756) | Arxiv 2025 | [github](https://github.com/3dlg-hcvc/SceneEval) | [project](https://3dlg-hcvc.github.io/SceneEval/)
+  
 ## Datasets
 
 <details open>

@@ -25,7 +25,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <summary>Single Mesh Generation</summary>
 
 - [SceneFactor: Factored Latent 3D Diffusion for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.01801) | arxiv 2024 |[github](https://github.com/alexeybokhovkin/SceneFactor)  | [project](https://alexeybokhovkin.github.io/scenefactor/)
-
+- [HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models](https://arxiv.org/abs/2406.20077) | arxiv 2025 | [project](https://neu-vi.github.io/houseCrafter/?utm_source=ai-bot.cn)
 </details>
  
 <details open>

@@ -34,6 +34,7 @@ A curated list of awesome Indoor Scene Synthesis papers.
 <details open>
 <summary>Compositional Mesh Generation</summary>
 
+- [SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass](https://arxiv.org/abs/2508.15769) | arxiv 2025 | [github](https://github.com/Mengmouxu/SceneGen) | [project](https://mengmouxu.github.io/SceneGen/)
 - [MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation](https://arxiv.org/abs/2412.03558) | arxiv 2024 | [github](https://huanngzh.github.io/MIDI-Page/) | [project](https://huanngzh.github.io/MIDI-Page/)
 - [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Epstein, et al., arxiv 2024 | [bibtex](./citations/disentangled.txt)
 - [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207) | arxiv 2024 | [project](https://gala3d.github.io/)  [![Code](https://img.shields.io/github/stars/VDIGPKU/GALA3D.svg?style=social&label=Official)](https://github.com/VDIGPKU/GALA3D) 

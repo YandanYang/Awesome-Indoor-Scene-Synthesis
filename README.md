@@ -14,6 +14,9 @@ A curated list of awesome Indoor Scene Synthesis papers.
 ## Papers
 
 ### 3D Scene synthesis
+
+
+
 <details open>
 <summary>Scene for Embodied AI</summary>
 
@@ -161,6 +164,15 @@ A curated list of awesome Indoor Scene Synthesis papers.
 - [Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects viaProcedural Generation](https://arxiv.org/pdf/2503.13424) | Arxiv 2025 | [github](https://github.com/OpenRobotLab/Infinite-Mobility)
 
 </details>
+
+<details open>
+<summary>Articulated Object</summary>
+
+- [articulate-anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model](https://arxiv.org/abs/2410.13882) |  ICLR 2025 | [github](https://github.com/vlongle/articulate-anything) | [project](https://articulate-anything.github.io/)
+- [MagicArticulate: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135) | CVPR 2025 | [github](https://github.com/Seed3D/MagicArticulate) |[project](https://chaoyuesong.github.io/MagicArticulate/)
+- [Articulate3D: Holistic Understanding of 3D Scenes as Universal Scene Description](https://arxiv.org/abs/2412.01398) |  ICCV 2025 | [github](https://github.com/insait-institute/USDNet) |[project](https://insait-institute.github.io/articulate3d.github.io/)
+</details>
+
 
 ### Texture Synthesis
 <details open>
